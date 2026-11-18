@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the article and this repository."
+title: "gunung-salak-lst-spatial-cv: code and derived data for spatial cross-validation of LST background models"
+type: software
+license: MIT
+authors:
+  - {family-names: Ratnaningsih, given-names: Dewi Juliah, orcid: "https://orcid.org/0000-0003-0526-2328"}
+  - {family-names: Purwoningsih, given-names: Tuti, orcid: "https://orcid.org/0000-0002-4441-7401"}
+  - {family-names: Leviany, given-names: Fonda, orcid: "https://orcid.org/0009-0007-1363-700X"}
+  - {family-names: Sugiarti, given-names: Harmi, orcid: "https://orcid.org/0000-0001-8842-6951"}
+  - {family-names: Prasetyo, given-names: Dimas Agung, orcid: "https://orcid.org/0000-0002-3213-0171"}
